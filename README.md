@@ -1,14 +1,13 @@
-
 # Belowdeck
 
 Don't stop at the settings menu, go Belowdeck and change what you want. After all, it's your system.
 
-Belowdeck is what it sounds like; an utility that allows you to go Belowdeck and change things about your Mac computer that you cannot access from any of the preinstalled settings menus. 
+Belowdeck is what it sounds like; an utility that allows you to go Belowdeck and change things about your Mac computer that you cannot access from any of the preinstalled settings menus.
 
 ## Installation
 
 <ol>
-	<li>Python 3 is required for Belowdeck, so make sure it is installed. <br>
+	<li>Python 3 is required for Belowdeck, so let's make sure it is installed. <br>
 	<li>Go up to the top right corner of your Mac's screen, and click the magnifying glass icon in the menu bar. <br>
 	<li>Type in the word "Terminal" in the Spotlight Search box, and press enter. A command prompt should open. <br>
 	<li>Enter the command <code>python3 --version</code> in the terminal. If it returns a string and no errors, press the orangish-yellow button in Terminal's title bar and continue to step 8. If it returns an error, go to the next step. <br>
@@ -24,3 +23,8 @@ Belowdeck is what it sounds like; an utility that allows you to go Belowdeck and
 	<li>Enter this command: <code>sudo git clone --depth 1 https://www.github.com/Kizuo/Belowdeck && cd Belowdeck</code> into your terminal to install the software. <br>
 	<li>Run the program with the following command: <code>python3 belowdeck.py</code>
 	<li>Enjoy your awesome Belowdeck experience!
+</ol>
+
+## Usage
+
+not ready yet
