@@ -11,7 +11,7 @@ Belowdeck is what it sounds like; an utility that allows you to go Belowdeck and
 	<li>Python 3 is required for Belowdeck, so make sure it is installed. <br>
 	<li>Go up to the top right corner of your Mac's screen, and click the magnifying glass icon in the menu bar. <br>
 	<li>Type in the word "Terminal" in the Spotlight Search box, and press enter. A command prompt should open. <br>
-	<li>Enter the command `python3 --version` in the terminal. If it returns a string and no errors, leave Terminal open and continue to step 8. If it returns an error, go to the next step. <br>
+	<li>Enter the command `python3 --version` in the terminal. If it returns a string and no errors, press the orangish-yellow button in Terminal's title bar and continue to step 8. If it returns an error, go to the next step. <br>
 	<li>Download Python 3.10 Stable for Mac: https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg
 	<li>When it finishes downloading, run the .pkg file and follow all instructions exactly as told for optimum results. <br>
 	<li>If it asks you if you want to delete the installer, select move to trash. <br>
