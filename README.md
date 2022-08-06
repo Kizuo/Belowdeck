@@ -14,7 +14,7 @@ Don't stop at the settings menu, go Belowdeck and change what you want. After al
 			<li>If you have Microsoft Windows: 
 			<ul>
 			<li>Press the Windows key (the one with four diagonal boxes) and R at the same time. When Run opens,  take your hands off the keyboard if you haven't already and clear out anything in the box. Type in `cmd.exe` and press Ctrl, Shift, and Enter keys at the same time. Take your hands off the keyboard when the screen dims and Windows asks if you would like to allow Command Processor to make changes (or something like that). Click yes. You can breathe now. 
-			<li>Once Command Prompt opens, **minimize** Command Prompt. Click this link [Git Direct Download](https://www.github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-32-bit.exe)
+			<li>Once Command Prompt opens, <strong>minimize</strong> Command Prompt. Click this link [Git Direct Download](https://www.github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-32-bit.exe)
 	</ul>
 		
 
